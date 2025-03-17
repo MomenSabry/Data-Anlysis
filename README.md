@@ -61,6 +61,6 @@ The dataset (`pizza_sales.csv`) contains pizza sales data with the following col
 ## Dashboard
 Below is a screenshot of the Pizza Sales Dashboard visualizing the KPIs and trends:
 
-![Pizza Sales Dashboard](path/to/dashboard-image.png)
+![Dashboard 1]([https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard.png](https://github.com/MomenSabry/Data-Anlysis/blob/main/Home%20Dashboard.png))
 
 ## Project Structure
