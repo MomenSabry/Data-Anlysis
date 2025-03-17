@@ -1,4 +1,3 @@
-# Data-Anlysis
 # Pizza Sales Analysis Project 🍕
 
 ## Overview
@@ -21,7 +20,7 @@ The dataset (`pizza_sales.csv`) contains pizza sales data with the following col
 
 ## Methodology
 1. **Database Creation**:
-   - Created a new database named `Normalized Pizza DB` using SQL.
+   - Created a new database named `Pizza DB` using SQL.
    - Imported the dataset into a table (`pizza_sales`) using `BULK INSERT`.
 
 2. **Normalization**:
