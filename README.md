@@ -62,4 +62,5 @@ The dataset (`pizza_sales.csv`) contains pizza sales data with the following col
 Below is a screenshot of the Pizza Sales Dashboard visualizing the KPIs and trends:
 
 ![Dashboard 1](https://github.com/MomenSabry/Data-Anlysis/blob/main/Home%20Dashboard.png)
+![Dashboard 2](https://github.com/MomenSabry/Data-Anlysis/blob/main/Best%20Seller%20Dashboard.png)
 ## Project Structure
